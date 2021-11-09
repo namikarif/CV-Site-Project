@@ -8,8 +8,7 @@ class CryptoClass
 
     function __construct($blockSize = null)
     {
-//        $this->secret = "!crgDieM@1453!crgDieM@1453";
-        $this->secret = "@kargO141!@kargO141!";
+        $this->secret = "12345678901234567890";
         $this->IV = substr($this->secret, 0, 16);
         $this->encryptionMethod = "AES-256-CBC";
     }
