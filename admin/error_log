@@ -1,0 +1,10 @@
+[12-Oct-2021 00:17:15 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '[' in /home/namikari/public_html/admin/page/homepage.php on line 129
+[12-Oct-2021 00:55:43 Europe/Istanbul] PHP Notice:  Undefined index: ID in /home/namikari/public_html/admin/page/blogcomment.php on line 13
+[12-Oct-2021 00:55:43 Europe/Istanbul] PHP Notice:  Undefined index: ID in /home/namikari/public_html/admin/page/blogcomment.php on line 22
+[12-Oct-2021 00:55:43 Europe/Istanbul] PHP Notice:  Undefined index: ID in /home/namikari/public_html/admin/page/blogcomment.php on line 26
+[12-Oct-2021 00:55:43 Europe/Istanbul] PHP Notice:  Undefined index: ID in /home/namikari/public_html/admin/page/blogcomment.php on line 26
+[12-Oct-2021 00:55:43 Europe/Istanbul] PHP Notice:  Undefined index: ID in /home/namikari/public_html/admin/page/blogcomment.php on line 28
+[12-Oct-2021 01:12:39 Europe/Istanbul] PHP Notice:  Undefined index: MetaKeys in /home/namikari/public_html/admin/page/blog.php on line 36
+[12-Oct-2021 01:12:59 Europe/Istanbul] PHP Notice:  Undefined index: References in /home/namikari/public_html/admin/page/sitesettings.php on line 137
+[12-Oct-2021 01:14:36 Europe/Istanbul] PHP Notice:  Undefined index: MetaKeys in /home/namikari/public_html/admin/page/blog.php on line 36
+[12-Oct-2021 01:14:52 Europe/Istanbul] PHP Notice:  Undefined index: MetaKeys in /home/namikari/public_html/admin/page/blog.php on line 36

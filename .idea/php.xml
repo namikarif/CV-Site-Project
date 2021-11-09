@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/api/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/api/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/api/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/api/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/api/vendor/composer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/api/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/api/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/api/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/api/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/api/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/api/vendor/react/promise-timer" />
+    </include_path>
+  </component>
+</project>
