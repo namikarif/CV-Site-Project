@@ -1,8 +1,8 @@
 <?php
 $hosting = "localhost";
-$databaseName = "namikari_blog";
-$databaseUser = "namikari_blog";
-$databasePassword = "IauNamik62051";
+$databaseName = "";
+$databaseUser = "";
+$databasePassword = "";
 
 
 $mysqli = mysqli_connect($hosting, $databaseUser, $databasePassword);
