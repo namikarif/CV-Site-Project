@@ -1,1 +1,1 @@
-Demo: **https://cv.namikarifoglu.com/**
+Demo: **https://namikarifoglu.com/**
