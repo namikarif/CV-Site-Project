@@ -1,1 +1,1 @@
-Demo: **https://namikarifoglu.com/**
+View [Demo](https://namikarifoglu.com)
