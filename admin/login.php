@@ -26,11 +26,11 @@
         <p class="login-box-msg">Welcome to Personal CV Management Panel</p>
         <form onsubmit="return false;" method="post">
             <div class="form-group has-feedback">
-                <input name="userName" type="text" class="form-control" value="demo" placeholder="User Name" autofocus>
+                <input name="userName" type="text" class="form-control" placeholder="User Name" autofocus>
                 <span class="glyphicon glyphicon-user form-control-feedback"></span>
             </div>
             <div class="form-group has-feedback">
-                <input name="password" type="password" class="form-control" value="demo" placeholder="Password">
+                <input name="password" type="password" class="form-control" placeholder="Password">
                 <span class="glyphicon glyphicon-lock form-control-feedback"></span>
             </div>
             <div class="row">
